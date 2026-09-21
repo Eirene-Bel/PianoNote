@@ -1,0 +1,3 @@
+@font-face{font-family:Bravura;src:url('vendor/bravura.woff2') format('woff2')}
+@font-face{font-family:Academico;src:url('vendor/academico.woff2') format('woff2')}
+html,body{margin:0;width:100%;background:transparent;overflow:hidden}#score{width:100%;max-width:640px;margin:auto}svg{display:block;width:100%;height:auto}

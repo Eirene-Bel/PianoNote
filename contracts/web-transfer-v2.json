@@ -1,0 +1,57 @@
+{
+  "format": "piano-practice",
+  "formatVersion": 2,
+  "sourcePlatform": "web",
+  "sourceSchema": 2,
+  "exportedAt": "2026-09-21T07:08:04.861Z",
+  "records": [
+    {
+      "id": "3ab1aa37-2394-4132-b8ea-aaa035601134",
+      "date": "2026-09-21",
+      "piece": "バックアップ検証",
+      "minutes": 30,
+      "range": "旧形式の範囲",
+      "memo": "旧形式のメモ",
+      "next": "次回",
+      "revision": 2,
+      "created_at": "2026-09-21T00:00:00Z",
+      "difficult_parts": "左手をゆっくり",
+      "unpracticed_parts": "後半",
+      "finishing_image": "歌うように"
+    }
+  ],
+  "deletedIds": [],
+  "attempts": [
+    {
+      "id": "3ab1aa37-2394-4132-b8ea-aaa035601135",
+      "date": "2026-09-21",
+      "answeredAt": 1789948800000,
+      "mode": "listen",
+      "clefOption": "both",
+      "countOption": 3,
+      "range": "staff",
+      "actualClef": "bass",
+      "notes": "18,20,22",
+      "correct": true,
+      "assisted": false
+    }
+  ],
+  "sessions": [
+    {
+      "id": "3ab1aa37-2394-4132-b8ea-aaa035601136",
+      "date": "2026-09-21",
+      "seconds": 90
+    }
+  ],
+  "settings": {
+    "clef": "both",
+    "count": 3,
+    "range": "staff",
+    "mode": "listen",
+    "volume": 0.35,
+    "recentN": 20,
+    "trainingMode": "ANSWER",
+    "interval": 5
+  },
+  "draft": "{\"input\":{\"date\":\"2026-09-21\",\"piece\":\"引き継ぎ途中\",\"minutes\":\"5\",\"difficult_parts\":\"\",\"unpracticed_parts\":\"\",\"finishing_image\":\"\"},\"editingId\":\"\",\"revision\":0,\"operationId\":\"3ab1aa37-2394-4132-b8ea-aaa035601137\",\"goalTouched\":false}"
+}

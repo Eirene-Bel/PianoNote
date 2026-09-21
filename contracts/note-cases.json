@@ -1,0 +1,26 @@
+{
+  "formatVersion": 1,
+  "pitches": [
+    {"step": 28, "key": "c/4", "name": "ド"},
+    {"step": 30, "key": "e/4", "name": "ミ"},
+    {"step": 38, "key": "f/5", "name": "ファ"},
+    {"step": 18, "key": "g/2", "name": "ソ"},
+    {"step": 26, "key": "a/3", "name": "ラ"},
+    {"step": 14, "key": "c/2", "name": "ド"},
+    {"step": 42, "key": "c/6", "name": "ド"}
+  ],
+  "answers": [
+    {"text": "ど ふぁ・し", "names": ["ド", "ファ", "シ"]},
+    {"text": "ﾄﾞﾚﾐ", "names": ["ド", "レ", "ミ"]},
+    {"text": "ソ、ラ,シ", "names": ["ソ", "ラ", "シ"]}
+  ],
+  "invalidAnswers": ["", "ドXYZミ"],
+  "ranges": [
+    {"clef": "treble", "range": "staff", "low": 30, "high": 38},
+    {"clef": "bass", "range": "staff", "low": 18, "high": 26},
+    {"clef": "treble", "range": "basic", "low": 28, "high": 40},
+    {"clef": "bass", "range": "basic", "low": 16, "high": 28},
+    {"clef": "treble", "range": "wide", "low": 26, "high": 42},
+    {"clef": "bass", "range": "wide", "low": 14, "high": 30}
+  ]
+}

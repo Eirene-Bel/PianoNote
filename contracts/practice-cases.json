@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "valid": [{"date": "2024-02-29", "piece": "ハノン", "minutes": 15, "difficult_parts": "右手\n改善なし", "unpracticed_parts": "", "finishing_image": "やわらかく"}],
+  "invalid": [
+    {"date": "2026-02-30", "piece": "ハノン", "minutes": 15},
+    {"date": "2026-09-21", "piece": "　 ", "minutes": 15},
+    {"date": "2026-09-21", "piece": "ハノン", "minutes": 0},
+    {"date": "2026-09-21", "piece": "ハノン", "minutes": 1441}
+  ]
+}
